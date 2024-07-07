@@ -3,7 +3,7 @@
 ## Dokumentasi Proyek
 
 ### Deskripsi Proyek
-Proyek ini adalah halaman web sederhana yang memutar lagu "I Wanna Be Yours" dan menampilkan lirik yang disinkronkan dengan waktu. Pengguna dapat memilih lagu dari dropdown dan melihat lirik muncul secara sinkron saat lagu diputar. Musiknya anda bisa masukan sendiri
+Proyek ini adalah halaman web sederhana yang memutar lagu "I Wanna Be Yours" dan menampilkan lirik yang disinkronkan dengan waktu. Pengguna dapat memilih lagu dari dropdown dan melihat lirik muncul secara sinkron saat lagu diputar. sendiri
 
 ### Struktur Folder
 ```
@@ -200,7 +200,7 @@ body {
 ### Catatan
 
 - **Lagu:**
-  Pastikan file lagu `I Wanna Be Yours.mp3` ada di folder `music`.
+  Pastikan file lagu `I Wanna Be Yours.mp3` ada di folder `music`(anda bisa memasukan musiknya secara manual dari perangkat anda)
 
 - **Sinkronisasi Lirik:**
   Lirik di `scripts.js` disesuaikan dengan waktu lagu dalam hitungan detik. Anda dapat mengubah waktu atau teks 
