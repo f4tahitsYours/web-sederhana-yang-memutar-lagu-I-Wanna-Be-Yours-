@@ -1,0 +1,84 @@
+body {
+    font-family: 'Georgia', serif;
+    background: linear-gradient(to bottom right, #ffcccb, #fff0f5);
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    max-width: 700px;
+    transition: transform 0.3s ease;
+}
+
+.container:hover {
+    transform: scale(1.02);
+}
+
+h1 {
+    font-family: 'Typeface: Mongolian Writing, KovanovicPisN_D, odstemplik';
+    color: #ff6f61;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+select {
+    padding: 10px;
+    margin: 20px 0;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #ff6f61;
+    background-color: #fff0f5;
+    color: #ff6f61;
+    outline: none;
+    transition: border 0.3s ease;
+}
+
+select:hover {
+    border-color: #ff3d47;
+}
+
+audio {
+    margin-top: 20px;
+    width: 100%;
+    outline: none;
+    transition: transform 0.3s ease;
+}
+
+audio:hover {
+    transform: scale(1.05);
+}
+
+#lyrics-container {
+    margin-top: 20px;
+    background: #ffebee;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 300px;
+    overflow-y: auto;
+    /* scroll-behavior: smooth; */
+    will-change: transform;
+}
+
+#lyrics {
+    white-space: pre-line;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+}
+
+.highlight {
+    background-color: pink;
+    font-weight: bold;
+    font-style: italic;
+}
