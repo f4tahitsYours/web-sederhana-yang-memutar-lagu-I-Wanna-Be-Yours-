@@ -3,7 +3,7 @@
 ## Dokumentasi Proyek
 
 ### Deskripsi Proyek
-Proyek ini adalah halaman web sederhana yang memutar lagu "I Wanna Be Yours" dan menampilkan lirik yang disinkronkan dengan waktu. Pengguna dapat memilih lagu dari dropdown dan melihat lirik muncul secara sinkron saat lagu diputar.
+Proyek ini adalah halaman web sederhana yang memutar lagu "I Wanna Be Yours" dan menampilkan lirik yang disinkronkan dengan waktu. Pengguna dapat memilih lagu dari dropdown dan melihat lirik muncul secara sinkron saat lagu diputar. Musiknya anda bisa masukan sendiri
 
 ### Struktur Folder
 ```
