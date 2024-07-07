@@ -200,7 +200,7 @@ body {
 ### Catatan
 
 - **Lagu:**
-  Pastikan file lagu `I Wanna Be Yours.mp3` ada di folder `music`(anda bisa memasukan musiknya secara manual dari perangkat anda)
+  Pastikan file lagu `I Wanna Be Yours.mp3` ada di folder `music`. *(anda bisa memasukan musiknya secara manual dari perangkat anda)*
 
 - **Sinkronisasi Lirik:**
   Lirik di `scripts.js` disesuaikan dengan waktu lagu dalam hitungan detik. Anda dapat mengubah waktu atau teks 
