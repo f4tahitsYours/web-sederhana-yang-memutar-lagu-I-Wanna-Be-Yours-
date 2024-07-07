@@ -1,7 +1,5 @@
 # web-sederhana-yang-memutar-lagu-I-Wanna-Be-Yours-
 
-Berikut adalah dokumentasi untuk proyek Anda:
-
 ## Dokumentasi Proyek
 
 ### Deskripsi Proyek
@@ -10,11 +8,11 @@ Proyek ini adalah halaman web sederhana yang memutar lagu "I Wanna Be Yours" dan
 ### Struktur Folder
 ```
 |-- index.html
-|-- javascript/
+|-- javascript
 |   |-- scripts.js
-|-- music/
+|-- music
 |   |-- I Wanna Be Yours.mp3
-|-- style/
+|-- style
     |-- styles.css
 ```
 
@@ -205,4 +203,4 @@ body {
   Pastikan file lagu `I Wanna Be Yours.mp3` ada di folder `music`.
 
 - **Sinkronisasi Lirik:**
-  Lirik di `scripts.js` disesuaikan dengan waktu lagu dalam hitungan detik. Anda dapat mengubah waktu atau teks l
+  Lirik di `scripts.js` disesuaikan dengan waktu lagu dalam hitungan detik. Anda dapat mengubah waktu atau teks 
